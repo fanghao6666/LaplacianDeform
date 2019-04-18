@@ -1,7 +1,7 @@
 laplacian deformation module
 =====================
 
-[CLICK HERE FOR DEMO](https://mikolalysenko.github.io/laplacian-deformation/demo.html)
+[CLICK HERE FOR DEMO](http://fanghao.site/OnlineDemos/Laplace%20Deform/demo.html)
 
 ![](img/demo.png)
 
